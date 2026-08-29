@@ -1,0 +1,129 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/mint/.emacs.d/" . "load-path/")
+ ("/home/mint/Sync/Notes/" . "Tracker/")
+ ("/home/mint/Sync/" . "Notes/")
+ ("/home/mint/Documents/" . "Notes/")
+ ("/home/mint/Programming/Assembly/" . "Triangle/")
+ ("/home/mint/Programming/" . "LearnCPP/")
+ ("/home/mint/Projects/" . "Python-Pomodoro/")
+ ("/home/mint/Downloads/Dictionaries/" . "[ZH-EN] CEDICT/")
+ ("/home/mint/Downloads/" . "Dictionaries/")
+ ("/home/mint/.local/share/" . "applications/")
+ ("/home/mint/.local/" . "share/")
+ ("/home/mint/" . ".emacs.d/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/mint/Projects/Python-Pomodoro/utils/"
+ "/home/mint/.emacs.d/"
+ "/home/mint/Projects/Python-Pomodoro/"
+ "/usr/lib/python3/dist-packages/playsound-stubs/"
+ "/home/mint/.emacs.d/load-path/"
+ "/home/mint/Repositories/"
+ "/home/mint/"
+ "/home/mint/Documents/"
+ "/home/mint/.languagetool/"
+ "/home/mint/Projects/C-Stuff/"
+ "/home/mint/Documents/Notes/"
+ "/home/mint/Programming/LearnCPP/"
+ "/home/mint/Programming/Haskell/"
+ "/home/mint/Programming/Assembly/Triangle/"
+ "/home/mint/Projects/PythonCourse/"
+ "/home/mint/Downloads/Dictionaries/[ZH-EN] CEDICT/"
+ "/home/mint/.local/share/applications/"
+ "/home/mint/.config/i3/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "__init__.py"
+ "main.py"
+ "init.el"
+ "highlight-indent-guides.el"
+ ".mbsyncrc"
+ "uni-mensaje.txt"
+ "ReadMe.org"
+ "trigraphs.c"
+ "diagraphs.c"
+ "GameIdea.org"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/mint/Projects/Python-Pomodoro/utils/" (27268 22927 848899 917000) "playsound3/" "./" "__pycache__/" ".#__init__.py" "../" "__init__.py")
+
+ ("/home/mint/Projects/Python-Pomodoro/" (27268 22775 792756 737000) "src/" "FeetToMeters.py" "class-gui.py" "./" "utils/" "../" "main.py" ".venv/")
+
+ ("/home/mint/.emacs.d/" (27268 22452 347674 272000) "recentf" "lisp/" ".mc-lists.el" "init.el" "elpa/" "transient/" "org-roam.db" "auto-save-list/" "bookmarks~" "ido.last~" "eln-cache/" "./" "backups/" "init.el~" "tramp" "early-init.el" "ido.last" "bookmarks" "../" ".org-id-locations" "early-init.el~" "anaconda-mode/" ".#init.el")
+
+ ("/home/mint/Repositories/" (27268 18169 759997 536000) "rofi-themes-collection/" "st/" "gromit-mpx/" "Highlight-indent-emacs/" "boomer/" "xseticon/" "dwm/" "pip/" "rofi/" "conan/" "aseprite/" "adwaita-icon-theme/" "pipewire-screenaudio/" "bladeward-reborn/" "Free-TV/" "kate-macs/" "./" "unite-v82.zip" "yomitan-dictionaries/" "../" "handmade/" "moon/" "nemo-copy-path/" "linux-installer.deb" "unite-v82/" "Bibata_Cursor/" "infinipaint/" "vmtouch/")
+
+ ("/home/mint/" (27268 22339 558203 965000) "Pictures/" ".pki/" "Projects/" "Godot/" ".swt/" ".var/" ".icons/" "package-lock.json" ".npm/" ".conan2/" "VirtualBox VMs/" "eclipse/" ".Xresources" ".nimble/" "#test.py#" ".xsessionrc" ".config/" ".swo" "logseq/" ".linuxmint/" "Excalidraw/" ".nv/" ".paradoxlauncher/" ".zen/" "xseticon/" "Videos/" ".logseq/" "Games/" ".bash_history-91385.tmp" "Muse Sounds/" "SyncSD/" ".fonts.conf" ".gitconfig" ".steam/" ".gvimrc" ".launchpadlib/" ".python_history" ".vital/" ".Natron/" ".cache/" ".vim/" ".bash_logout" ".swm" "profiles/" ".lesshst" ".pydev/" "Org/" ".fehbg" ".local/" ".themes/" ".gnupg/" ".bash_history-28578.tmp" ".applications/" ".bash_history-52012.tmp" ".android/" ".gnome/" "E-mail/" ".dbus/" ".xinitrc" "Documents/" "obsidian-launcher.sh" ".ssh/" "Natron-2.5.0/" "blenderkit_data/" "pipewire/" ".Xauthority" "Zomboid/" ".p2/" ".pam_environment" ".bash_history" ".renpy/" ".xinputrc" "Music/" ".swp" ".vimrc" ".presage/" ".cargo/" ".viminfo" ".gtkrc-xfce" "./" ".aspell.en.pws" ".wine/" ".eclipse/" "Desktop/" ".bashrc-old" "Public/" "Repositories/" ".tmux.conf" ".swn" ".java/" ".wget-hsts" ".steampath" "opt/" ".languagetool/" ".xmodmap" ".joplin/" "../" ".xsession-errors.old" ".aspell.en.prepl" ".bash_history-59716.tmp" "Programming/" ".mozilla/" ".lmmsrc.xml" ".emacs.d/" ".dmrc" ".gtkrc-2.0" "Sync/" ".thunderbird/" ".sudo_as_admin_successful" "Templates/" ".bashrc" "eclipse-workspace/" "Firefox_wallpaper.png" ".profile" "Downloads/" "translog.20260302003658.log" "go/" "wacom_pan.sh" ".nvidia-settings-rc" "package.json" ".xsession-errors" ".steampid")
+
+ ("/usr/lib/python3/dist-packages/playsound-stubs/" (27267 8651 665051 198000) "./" "../" "__init__.pyi")
+
+ ("/home/mint/.emacs.d/load-path/" (27268 18435 11779 757000) "./" "../" "highlight-indent-guides.el")
+
+ ("/home/mint/Projects/" (27260 52917 566072 474000) "Python-Pomodoro/" "HTTPS-Sever-C/" "./" "GTK-Stuff/" "../" "C-Stuff/")
+
+ ("/home/mint/Programming/" (27184 11532 367865 908000) "ysap-bash/" "LearnCPP/" "C/" "lsbtw/" "PythonCourse/" "./" "raylib/" "Assembly/" "../" "Haskell/")
+
+ ("/home/mint/Documents/" (27265 62553 14667 564000) "3D-Anime-Modelling-Final-backup3.blend" "Assembly-Manual.pdf" "animation-0002.rawr" "dynamic-anatomy-pfp.xcf" "GW2/" ".3D-Anime-Hand-Modelling-Final-backup-03-2-26.blend.swp" "maury-notes" "uni-mensaje.txt~" "uni-mensaje.txt" "Excalidraw/" "lmms/" "init.el" "Blender/" "Custom-shortcuts-krita.shortcuts" "bash/" "3D-Anime-Hand-Modelling-Final-backup-HAND.blend" "devolucion.txt" "readthlon-counter.txt" "make-everything-dark-js.txt" "mensaje-profe-aylen-uni.txt" "animation-0001.rawr" "Official/" "flatpak.txt" "UNI/" "Notes/" "Sofa.blend" "Music/" "3D-Anime-Modelling-backup-FINAL.blend" "SEARCH-Compelling.org" "Books EN/" "3D-Anime-Modelling-Final-backup2.blend" "./" "Project-Japanese.org" "init.el~" "MuseScore4/" "3D-Anime-Hand-Modelling-Final-backup-03-2-26.blend" "../" "Books JP/" "emacs.pdf" "Obsidian/" "FreeCAD-Projects/" "Default_HD.bundle" "mensaje-profe-aylen-uni" "Books ZH/" "3D-Anime-Modelling-Final-backup-03-02-26.blend" "Vital/" "EverCal/")
+
+ ("/home/mint/Org/" (27257 63281 257755 492000) "Org-Roam/" "Org-Vault/" "./" "../")
+
+ ("/home/mint/Org/Org-Roam/" (27268 13777 619153 736000) "20260810131820-levain.org~" "20260811150103-quotes.org" "./" "../" "20260810131820-levain.org" "20260818071350-rest_notes.org" "20260818071350-rest_notes.org~")
+
+ ("/home/mint/.languagetool/" (27263 14609 619226 604000) "./" "../")
+
+ ("/home/mint/.local/share/applications/" (27257 57936 319592 937000) "waydroid.com.android.documentsui.desktop" "aseprite.desktop" "epp.package.jee.desktop" "umo.desktop" "Warframe.desktop" "Natron2Setup.desktop" "st.desktop" "Lorien.desktop" "Natron2.desktop" "Hearts of Iron IV.desktop" "epp.package.cpp.desktop" "epp.package.java.desktop" "Material-Maker.desktop" "mimeinfo.cache" "The Elder Scrolls III Morrowind.desktop" "waydroid.com.android.calculator2.desktop" "LosslessCut.desktop" "WebApp-Magma9462.desktop" "Friction2D.desktop" "steam.desktop" "WebApp-Figma2302.desktop" "waydroid.org.lineageos.recorder.desktop" "wine/" "NIGHT-RUNNERS PROLOGUE.desktop" "LMMS-Nightly.desktop" "RimWorld.desktop" "GIMP.desktop" "defaults.list" "userapp-blender-534MK3.desktop" "kdenlive.desktop" "waydroid.com.android.contacts.desktop" "Godot-4.7.desktop" "A Little Lily Princess.desktop" "1.Krita-5.3.1.desktop" "Project Zomboid.desktop" "Obsidian.desktop" "appimagekit-joplin.desktop" "./" "waydroid.org.lineageos.etar.desktop" "waydroid.com.android.gallery3d.desktop" "Tales of Berseria.desktop" "LMMS-WINE.desktop" "waydroid.com.android.settings.desktop" "blender-4.5.desktop" "waydroid.com.android.deskclock.desktop" "vivaldi-dnfpoenibinnbbckgbhendmlljoobcfg-Default.desktop" "syncthing-start.desktop" "Inkscape.desktop" "OpenMW.desktop" "../" "waydroid.org.lineageos.aperture.desktop" "Logseq.desktop" "Fears to Fathom - Episode 1.desktop" "waydroid.org.lineageos.jelly.desktop" "FreeCAD.desktop" "syncthing-ui.desktop" "Mist Legacy.desktop" "userapp-1029837409128384710239847123409-GIMP-3.0.8-1-x86_64.AppImage-C5T7L3.desktop" "WebApp-Pikimov2442.desktop" "Houdoku-reader.desktop" "FreeCAD-1.1.0.desktop" "_home_mint_Downloads_eclipse-installer_.desktop" "WebApp-Graphite9006.desktop" "waydroid.org.lineageos.eleven.desktop" "Guild Wars 2.desktop" "Zen.desktop" "Grand Theft Auto San Andreas.desktop")
+
+ ("/home/mint/Programming/LearnCPP/" (27118 22584 453164 973000) "main.cpp" "LearnCPP.kdev4" "src/" ".kdev4/" "CMakeLists.txt" "adding" "build/" "add.cpp" "main" "./" "foward-declaration.cpp" "../" "foward-declaration")
+
+ ("/home/mint/Documents/Notes/" (27215 29057 692587 554000) "TODOs.org" "0.3:Composing_Bass_Lines_and_Drum_Sequences.mw" "codeberg.txt" "enie.txt" "Verses.tex" "Verses.org" "IdeaGlassmaker.odt" "GameIdea.org" "Proyecto-B-Preeliminar.txt" "10foods.txt" "Hobbies.org" "3d-anime-modelling.txt" "VisualNovelIdea-Or-UI.org" "SteamCompatibilityProton.md" "game-story.org" "Skills.org" "uni-3d-tutorial.txt" "MangaIdea.org" "STEAM-RECOVERY-AETHERMAGIC.txt" "./" "GameIdea.html" "Books/" "lily.org" "../" "VENCORD.txt" "Dream.org" "Blender-anime-tutorial.txt" "GW2APIKey.txt" "HorrorGame.org" "Recomendaciones.md" "IdeaGlassmaker.org")
+
+ ("/home/mint/Sync/Notes/Tracker/" (27117 32086 418334 757000) "./" "READTHLON.md" "Books/" "../")
+
+ ("/home/mint/Sync/Notes/" (27094 10581 189892 181000) "art/" "nvim.md" "kettlebell.md" "godot/" "uni/" "discord nuke.md" "arch/" "musique/" "projects/" "Tracker/" "./" "code/" "GTA San Andreas User Files/" "../" "README.md")
+
+ ("/home/mint/Sync/" (27098 36643 454869 658000) "Challenge52/" "Notes/" "./" "../" ".stfolder/" "Tasks/")
+
+ ("/home/mint/Projects/C-Stuff/" (27040 7279 63612 634000) "diagraphs" "./" "trigraphs.c" "hello.c" "../" "trigraphs" "diagraphs.c" "hello")
+
+ ("/home/mint/Downloads/Dictionaries/[ZH-EN] CEDICT/" (27023 28727 100070 966000) "term_bank_1.json" "term_bank_2.json" "./" "index.json" "../")
+
+ ("/home/mint/Programming/Assembly/Triangle/" (27023 29424 558910 208000) "tri.o" "tri.s" "tri.asm" "tri.c" "./" "tri" "../")
+
+ ("/home/mint/Programming/Haskell/" (27023 29424 682909 525000) "test" "test.hs" "./" "test.o" "../" "test.hi")
+
+ ("/home/mint/eclipse-workspace/HelloWorld/src/" (27007 13889 526683 60000) "./" "Main.java" "../")
+
+ ("/home/mint/.config/i3/" (27001 9466 282772 606000) "config" "config~" "./" "../")
+
+ ("/home/mint/Projects/PythonCourse/" (27001 56245 924228 574000) "meson.build" "src/" ".git/" "COPYING" "org.gnome.Example.json" "./" "../" "README.md")
+
+ ("/home/mint/Programming/Assembly/" (27004 2602 314721 574000) "asem.s" "Triangle/" "asem" "./" "asem.o" "../")
+
+ ("/home/mint/Projects/PythonCourse/src/" (27001 6635 18003 563000) "meson.build" "pythoncourse.in" "./" "../" "main.py" "__init__.py")
+
+ ("/home/mint/Downloads/Dictionaries/" (27000 59246 30535 106000) "[ZH-EN] CEDICT/" "[ZH-JA] 中日大辞典　第二版.zip" "./" "[ZH-EN] CEDICT.zip" "[Freq] JPDB (Recommended).zip" "../" "[Freq] JPDB (Recommended)/" "[ZH-JA] 白水社 中国語辞典.zip")
+
+ ("/home/mint/Downloads/" (27000 59234 278967 149000) "PureRef-2.0.3_x64.deb" "Godot_v4.6-stable_linux.x86_64.zip" "Fonts/" "blender-4.5.6-linux-x64.tar.xz" "vivaldi-stable_7.7.3851.67-1_amd64.deb" "blender-4.5.6-linux-x64/" "discord-0.0.121.deb" "windows-10-22h2-englishus_archive.torrent" "appimagetool-x86_64.AppImage" "Dictionaries/" "audiorelay-0.27.5.deb" "Lorien_v0.6.0_Linux.tar.xz" "Lorien_v0.6.0_Linux/" "./" "Distros/" "drive-download-20260124T205443Z-1-0232332233201.zip" "blender_logo_kit/" "../" "blenderkit_images.zip" "MPV/" "stremio_4.4.168-1_amd64.deb" "drive-download-20260124T205443Z-1-001.zip" "discord-0.0.122.deb" "blender_logo_kit.zip" "Emulator Games/" "~/" "LosslessCut-linux-x86_64.AppImage" "Godot_v4.5.1-stable_linux.x86_64.zip")
+
+ ("/home/mint/.local/share/" (27000 4644 28730 373000) "keyrings/" "applications/" "krita-sysinfo.log" "icc/" "kdenlive/" "stalefiles/" "session_migration-cinnamon" "ice/" "gnome-shell/" "gvfs-metadata/" "godot/" "user-places.xbel.bak" "recently-used.xbel" ".vivaldi_reporting_data" "icons/" "krita/" "evolution/" "Trash/" "flatpak/" "xreader/" "kdevscratchpad/" "user-places.xbel" "gnome-pomodoro/" "krita.log" "qBittorrent/" "kdevelop/" "./" "kdevfiletemplates/" "nemo/" "nvim/" "cinnamon/" "kdevappwizard/" "../" "user-places.xbel.tbcache" "mime/" "inxi/" "fcitx5/")
+
+ ("/home/mint/.local/" (26996 24550 404604 89000) "state/" "./" "../" "share/")
+
+ ("/home/mint/.config/" (26996 19576 800154 87000) "menus/" "i3status/" "dconf/" "user-dirs.dirs" "mozc/" "evolution/" "user-dirs.locale" "cinnamon-monitors.xml" "fcitx/" "Electron/" "VirtualBox/" "xdg-terminals.list" "spotify/" "./" "i3/" "X-Cinnamon-xdg-terminals.list" "caja/" "nemo/" "kitty/" "cinnamon-session/" "cinnamon/" "autostart/" "pulse/" "../" "touchegg/" "discord/" "fcitx5/" "ibus/" "gtk-3.0/" "goa-1.0/")
+
+ ("/home/" (26996 13239 491612 768000) "mint/" "./" "../")
+
+ ("/home/mint/emacs.d/" (26996 20964 674541 634000) "init.el" "./" "../")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

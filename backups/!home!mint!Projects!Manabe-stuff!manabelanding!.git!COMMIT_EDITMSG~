@@ -1,0 +1,27 @@
+add new redesign branch and adjust menu padding
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Date:      Sat Aug 22 18:20:48 2026 -0300
+#
+# On branch redesign
+# Changes to be committed:
+#	modified:   src/pages/index.astro
+#
+# ------------------------ >8 ------------------------
+# Do not modify or remove the line above.
+# Everything below it will be ignored.
+diff --git a/src/pages/index.astro b/src/pages/index.astro
+index 305901b..c8f7103 100644
+--- a/src/pages/index.astro
++++ b/src/pages/index.astro
+@@ -163,7 +163,7 @@ const redes = [
+         <div class="flex flex-col gap-4 py-[27px]">
+           <!-- SOLO VISIBLE EN PC -->
+           <header
+-            class="hidden md:flex justify-between items-center dark:bg-white/5 border-white/[0.13] border border-solid h-[53px] rounded-2xl px-4 w-full max-w-screen-lg"
++            class="hidden md:flex justify-between items-center dark:bg-white/5 border-white/[0.13] border border-solid h-[53px] rounded-2xl p-[1.9rem] w-full max-w-screen-lg"
+           >
+             <a href="/" aria-label="Inicio">
+               <Image loading="eager" src={manabeLogo} alt="Logo de manabe" />

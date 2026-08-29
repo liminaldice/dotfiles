@@ -1,0 +1,12 @@
+import sys
+import time
+from playsound3 import playsound
+
+class Program():
+    counter = 0
+    counter_update = counter
+
+    def __init__(self) -> None:
+        match 'y','yes':
+            case 'y':
+                print("bread")

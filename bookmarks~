@@ -1,0 +1,11 @@
+;;;; Emacs Bookmark Format Version 1;;;; -*- coding: utf-8-emacs; mode: lisp-data -*-
+;;; This format is meant to be slightly human-readable;
+;;; nevertheless, you probably don't want to edit it.
+;;; -*- End Of Bookmark File Format Version Stamp -*-
+(("org-capture-last-stored"
+ (filename . "~/Org/Org-Roam/20260811150103-quotes.org")
+ (front-context-string . "A focus fool wil")
+ (rear-context-string . "+title: Quotes\n\n")
+ (position . 85)
+ (last-modified 27259 25463 941401 78000))
+)
