@@ -7,20 +7,19 @@
  ("/home/mint/Documents/" . "Notes/")
  ("/home/mint/Programming/Assembly/" . "Triangle/")
  ("/home/mint/Programming/" . "LearnCPP/")
- ("/home/mint/Projects/" . "Python-Pomodoro/")
+ ("/home/mint/Projects/" . "PythonCourse/")
  ("/home/mint/Downloads/Dictionaries/" . "[ZH-EN] CEDICT/")
  ("/home/mint/Downloads/" . "Dictionaries/")
  ("/home/mint/.local/share/" . "applications/")
  ("/home/mint/.local/" . "share/")
- ("/home/mint/" . "Projects/")
+ ("/home/mint/" . ".emacs.d/")
 )
 
 ;; ----- ido-work-directory-list -----
 (
- "/home/mint/.emacs.d/"
- "/home/mint/Projects/Python-Pomodoro/"
- "/home/mint/Documents/"
  "/home/mint/"
+ "/home/mint/Documents/"
+ "/home/mint/.emacs.d/"
  "/home/mint/.languagetool/"
  "/home/mint/Projects/C-Stuff/"
  "/home/mint/Documents/Notes/"
@@ -35,33 +34,29 @@
 
 ;; ----- ido-work-file-list -----
 (
- "init.el"
- "refactor.py"
  ".mbsyncrc"
  "uni-mensaje.txt"
+ "init.el"
  "ReadMe.org"
  "trigraphs.c"
  "diagraphs.c"
  "GameIdea.org"
  "VisualNovelIdea-Or-UI.org"
  "lily.org"
+ "main.cpp"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
- ("/home/mint/.emacs.d/" (27282 49413 384269 754000) "recentf" "lisp/" ".mc-lists.el" "init.el" "elpa/" "transient/" "org-roam.db" "forge-database.sqlite" "auto-save-list/" "bookmarks~" "ido.last~" "kkcrc" "eln-cache/" "./" "backups/" "init.el~" "tramp" "early-init.el" "ido.last" "bookmarks" "../" ".org-id-locations" "early-init.el~" "anaconda-mode/")
+ ("/home/mint/.emacs.d/" (27263 26870 188609 676000) "recentf" ".mc-lists.el" "init.el" "elpa/" "transient/" "org-roam.db" "auto-save-list/" "bookmarks~" "ido.last~" "eln-cache/" "./" "backups/" "init.el~" "tramp" "early-init.el" "ido.last" "bookmarks" "../" ".org-id-locations" "early-init.el~" "anaconda-mode/")
 
- ("/home/mint/" (27282 49060 839372 60000) "Pictures/" ".pki/" ".ANTI-logseq/" "Projects/" "Godot/" ".swt/" ".var/" ".icons/" "nonsequitur-lsq/" "package-lock.json" ".npm/" ".conan2/" "VirtualBox VMs/" "eclipse/" ".Xresources" ".nimble/" "#test.py#" ".xsessionrc" ".config/" ".swo" "Learn-code/" "logseq/" ".linuxmint/" "Excalidraw/" ".nv/" ".paradoxlauncher/" ".nvm/" ".zen/" "emacs/" "xseticon/" "Videos/" "Games/" ".bash_history-91385.tmp" "Muse Sounds/" "SyncSD/" ".fonts.conf" ".gitconfig" ".steam/" ".gvimrc" ".launchpadlib/" ".python_history" ".vital/" ".Natron/" ".cache/" ".vim/" ".bash_logout" ".swm" "profiles/" ".lesshst" ".pydev/" "Org/" ".fehbg" ".local/" ".themes/" ".gnupg/" ".bash_history-28578.tmp" ".applications/" ".bash_history-52012.tmp" ".android/" ".gnome/" "E-mail/" ".dbus/" ".xinitrc" "Documents/" "obsidian-launcher.sh" ".ssh/" "Natron-2.5.0/" "blenderkit_data/" "pipewire/" ".Xauthority" "Zomboid/" ".p2/" ".pam_environment" ".bash_history" ".renpy/" ".xinputrc" "Notes/" "Music/" ".swp" ".vimrc" ".presage/" ".cargo/" ".viminfo" ".gtkrc-xfce" "./" ".aspell.en.pws" ".wine/" ".eclipse/" "Desktop/" ".bashrc-old" "Public/" "Repositories/" ".tmux.conf" ".swn" ".java/" ".wget-hsts" ".steampath" "opt/" ".languagetool/" ".xmodmap" ".joplin/" "../" ".xsession-errors.old" ".aspell.en.prepl" ".bash_history-59716.tmp" ".mozilla/" ".lmmsrc.xml" ".emacs.d/" ".dmrc" ".gtkrc-2.0" "Sync/" ".thunderbird/" ".sudo_as_admin_successful" "Templates/" ".bashrc" "eclipse-workspace/" "Firefox_wallpaper.png" ".profile" "Downloads/" "translog.20260302003658.log" ".authinfo.gpg" "go/" "wacom_pan.sh" ".nvidia-settings-rc" "package.json" ".xsession-errors" ".steampid")
+ ("/home/mint/" (27263 26732 730488 564000) "Pictures/" ".pki/" "Projects/" "Godot/" ".swt/" ".var/" ".icons/" "package-lock.json" ".npm/" ".conan2/" "VirtualBox VMs/" "eclipse/" ".Xresources" ".nimble/" "#test.py#" ".xsessionrc" ".config/" ".swo" "logseq/" ".linuxmint/" "Excalidraw/" ".nv/" ".paradoxlauncher/" ".zen/" "xseticon/" "Videos/" ".logseq/" "Games/" ".bash_history-91385.tmp" "Muse Sounds/" "SyncSD/" ".gitconfig" ".steam/" ".gvimrc" ".launchpadlib/" ".python_history" ".vital/" ".Natron/" ".cache/" ".vim/" ".bash_logout" ".swm" "profiles/" ".lesshst" ".pydev/" "Org/" ".fehbg" ".local/" ".themes/" ".gnupg/" ".bash_history-28578.tmp" ".applications/" ".bash_history-52012.tmp" ".android/" ".gnome/" "E-mail/" ".dbus/" ".xinitrc" "Documents/" "obsidian-launcher.sh" ".ssh/" "Natron-2.5.0/" "blenderkit_data/" "pipewire/" ".Xauthority" "Zomboid/" ".p2/" ".pam_environment" ".bash_history" ".renpy/" ".xinputrc" "Music/" ".swp" ".vimrc" ".presage/" ".cargo/" ".viminfo" ".gtkrc-xfce" "./" ".aspell.en.pws" ".wine/" ".eclipse/" "Desktop/" ".bashrc-old" "Public/" "Repositories/" ".tmux.conf" ".swn" ".java/" ".wget-hsts" ".steampath" "opt/" ".languagetool/" ".xmodmap" ".joplin/" "../" ".xsession-errors.old" ".aspell.en.prepl" ".bash_history-59716.tmp" "Programming/" ".mozilla/" ".lmmsrc.xml" ".emacs.d/" ".dmrc" ".gtkrc-2.0" "Sync/" ".thunderbird/" ".sudo_as_admin_successful" "Templates/" ".bashrc" "eclipse-workspace/" "Firefox_wallpaper.png" ".profile" "Downloads/" "translog.20260302003658.log" "go/" "wacom_pan.sh" ".nvidia-settings-rc" "package.json" ".xsession-errors" ".steampid")
 
- ("/home/mint/Projects/Python-Pomodoro/" (27282 49000 133059 182000) "refactor.py" "src/" "notification-sound.mp3" ".git/" "test.py" "class-gui.py" "./" "utils/" "README.org" "LICENSE" "../" "main.py" ".venv/")
-
- ("/home/mint/Documents/" (27282 42675 291528 25000) "3D-Anime-Modelling-Final-backup3.blend" "Assembly-Manual.pdf" "animation-0002.rawr" "dynamic-anatomy-pfp.xcf" "GW2/" ".3D-Anime-Hand-Modelling-Final-backup-03-2-26.blend.swp" "maury-notes" "github-magit-token.txt" "uni-mensaje.txt~" "uni-mensaje.txt" "Excalidraw/" "lmms/" "Blender/" "Custom-shortcuts-krita.shortcuts" "bash/" "3D-Anime-Hand-Modelling-Final-backup-HAND.blend" "devolucion.txt" "readthlon-counter.txt" "make-everything-dark-js.txt" "mensaje-profe-aylen-uni.txt" "animation-0001.rawr" "Official/" "flatpak.txt" "UNI/" "Notes/" "Sofa.blend" "Music/" "3D-Anime-Modelling-backup-FINAL.blend" "SEARCH-Compelling.org" "Books EN/" "3D-Anime-Modelling-Final-backup2.blend" "./" "Project-Japanese.org" "MuseScore4/" "3D-Anime-Hand-Modelling-Final-backup-03-2-26.blend" "../" "Books JP/" "emacs.pdf" "Obsidian/" "FreeCAD-Projects/" "Default_HD.bundle" "mensaje-profe-aylen-uni" "Books ZH/" "3D-Anime-Modelling-Final-backup-03-02-26.blend" "Vital/" "EverCal/")
-
- ("/home/mint/.local/share/applications/" (27278 38803 785044 600000) "waydroid.com.android.documentsui.desktop" "WebApp-Figma7955.desktop" "aseprite.desktop" "epp.package.jee.desktop" "umo.desktop" "Warframe.desktop" "Natron2Setup.desktop" "st.desktop" "Lorien.desktop" "Natron2.desktop" "Hearts of Iron IV.desktop" "epp.package.cpp.desktop" "epp.package.java.desktop" "Material-Maker.desktop" "mimeinfo.cache" "The Elder Scrolls III Morrowind.desktop" "waydroid.com.android.calculator2.desktop" "LosslessCut.desktop" "Firealpaca-2.16.0.desktop" "WebApp-Magma9462.desktop" "Friction2D.desktop" "steam.desktop" "WebApp-Figma2302.desktop" "waydroid.org.lineageos.recorder.desktop" "wine/" "NIGHT-RUNNERS PROLOGUE.desktop" "LMMS-Nightly.desktop" "RimWorld.desktop" "GIMP.desktop" "defaults.list" "thorium.desktop" "userapp-blender-534MK3.desktop" "kdenlive.desktop" "waydroid.com.android.contacts.desktop" "Godot-4.7.desktop" "A Little Lily Princess.desktop" "1.Krita-5.3.1.desktop" "emacs-30.2.txt" "Project Zomboid.desktop" "Obsidian.desktop" "appimagekit-joplin.desktop" "./" "waydroid.org.lineageos.etar.desktop" "waydroid.com.android.gallery3d.desktop" "Tales of Berseria.desktop" "LMMS-WINE.desktop" "waydroid.com.android.settings.desktop" "blender-4.5.desktop" "waydroid.com.android.deskclock.desktop" "vivaldi-dnfpoenibinnbbckgbhendmlljoobcfg-Default.desktop" "syncthing-start.desktop" "Inkscape.desktop" "OpenMW.desktop" "../" "waydroid.org.lineageos.aperture.desktop" "Logseq.desktop" "Fears to Fathom - Episode 1.desktop" "waydroid.org.lineageos.jelly.desktop" "FreeCAD.desktop" "syncthing-ui.desktop" "Mist Legacy.desktop" "userapp-1029837409128384710239847123409-GIMP-3.0.8-1-x86_64.AppImage-C5T7L3.desktop" "WebApp-Pikimov2442.desktop" "Houdoku-reader.desktop" "FreeCAD-1.1.0.desktop" "_home_mint_Downloads_eclipse-installer_.desktop" "WebApp-Graphite9006.desktop" "waydroid.org.lineageos.eleven.desktop" "Guild Wars 2.desktop" "Zen.desktop" "Grand Theft Auto San Andreas.desktop")
-
- ("/home/mint/Projects/" (27274 10475 317075 34000) "FeetToMeters.py" "Python-Pomodoro/" "HTTPS-Sever-C/" "CAPS-LOCK-FIX/" "./" "GTK-Stuff/" "Astro/" "../" "Manabe-stuff/" "C-Stuff/")
+ ("/home/mint/Documents/" (27263 19810 369608 251000) "3D-Anime-Modelling-Final-backup3.blend" "Assembly-Manual.pdf" "animation-0002.rawr" "dynamic-anatomy-pfp.xcf" "GW2/" ".3D-Anime-Hand-Modelling-Final-backup-03-2-26.blend.swp" "maury-notes" "uni-mensaje.txt~" "uni-mensaje.txt" "Excalidraw/" "lmms/" "init.el" "Blender/" "Custom-shortcuts-krita.shortcuts" "bash/" "3D-Anime-Hand-Modelling-Final-backup-HAND.blend" "devolucion.txt" "readthlon-counter.txt" "make-everything-dark-js.txt" "mensaje-profe-aylen-uni.txt" "animation-0001.rawr" "Official/" "flatpak.txt" "UNI/" "Notes/" "Sofa.blend" "Music/" "3D-Anime-Modelling-backup-FINAL.blend" "SEARCH-Compelling.org" "Books EN/" "3D-Anime-Modelling-Final-backup2.blend" "./" "Project-Japanese.org" "MuseScore4/" "3D-Anime-Hand-Modelling-Final-backup-03-2-26.blend" "../" "Books JP/" "emacs.pdf" "Obsidian/" "FreeCAD-Projects/" "Default_HD.bundle" "mensaje-profe-aylen-uni" "Books ZH/" "3D-Anime-Modelling-Final-backup-03-02-26.blend" "Vital/" "EverCal/")
 
  ("/home/mint/.languagetool/" (27263 14609 619226 604000) "./" "../")
+
+ ("/home/mint/.local/share/applications/" (27257 57936 319592 937000) "waydroid.com.android.documentsui.desktop" "aseprite.desktop" "epp.package.jee.desktop" "umo.desktop" "Warframe.desktop" "Natron2Setup.desktop" "st.desktop" "Lorien.desktop" "Natron2.desktop" "Hearts of Iron IV.desktop" "epp.package.cpp.desktop" "epp.package.java.desktop" "Material-Maker.desktop" "mimeinfo.cache" "The Elder Scrolls III Morrowind.desktop" "waydroid.com.android.calculator2.desktop" "LosslessCut.desktop" "WebApp-Magma9462.desktop" "Friction2D.desktop" "steam.desktop" "WebApp-Figma2302.desktop" "waydroid.org.lineageos.recorder.desktop" "wine/" "NIGHT-RUNNERS PROLOGUE.desktop" "LMMS-Nightly.desktop" "RimWorld.desktop" "GIMP.desktop" "defaults.list" "userapp-blender-534MK3.desktop" "kdenlive.desktop" "waydroid.com.android.contacts.desktop" "Godot-4.7.desktop" "A Little Lily Princess.desktop" "1.Krita-5.3.1.desktop" "Project Zomboid.desktop" "Obsidian.desktop" "appimagekit-joplin.desktop" "./" "waydroid.org.lineageos.etar.desktop" "waydroid.com.android.gallery3d.desktop" "Tales of Berseria.desktop" "LMMS-WINE.desktop" "waydroid.com.android.settings.desktop" "blender-4.5.desktop" "waydroid.com.android.deskclock.desktop" "vivaldi-dnfpoenibinnbbckgbhendmlljoobcfg-Default.desktop" "syncthing-start.desktop" "Inkscape.desktop" "OpenMW.desktop" "../" "waydroid.org.lineageos.aperture.desktop" "Logseq.desktop" "Fears to Fathom - Episode 1.desktop" "waydroid.org.lineageos.jelly.desktop" "FreeCAD.desktop" "syncthing-ui.desktop" "Mist Legacy.desktop" "userapp-1029837409128384710239847123409-GIMP-3.0.8-1-x86_64.AppImage-C5T7L3.desktop" "WebApp-Pikimov2442.desktop" "Houdoku-reader.desktop" "FreeCAD-1.1.0.desktop" "_home_mint_Downloads_eclipse-installer_.desktop" "WebApp-Graphite9006.desktop" "waydroid.org.lineageos.eleven.desktop" "Guild Wars 2.desktop" "Zen.desktop" "Grand Theft Auto San Andreas.desktop")
 
  ("/home/mint/Programming/LearnCPP/" (27118 22584 453164 973000) "main.cpp" "LearnCPP.kdev4" "src/" ".kdev4/" "CMakeLists.txt" "adding" "build/" "add.cpp" "main" "./" "foward-declaration.cpp" "../" "foward-declaration")
 
@@ -74,6 +69,8 @@
  ("/home/mint/Sync/" (27098 36643 454869 658000) "Challenge52/" "Notes/" "./" "../" ".stfolder/" "Tasks/")
 
  ("/home/mint/Projects/C-Stuff/" (27040 7279 63612 634000) "diagraphs" "./" "trigraphs.c" "hello.c" "../" "trigraphs" "diagraphs.c" "hello")
+
+ ("/home/mint/Projects/" (27004 1597 309010 511000) "HTTPS-Sever-C/" "PythonCourse/" "./" "../")
 
  ("/home/mint/Downloads/Dictionaries/[ZH-EN] CEDICT/" (27023 28727 100070 966000) "term_bank_1.json" "term_bank_2.json" "./" "index.json" "../")
 

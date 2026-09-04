@@ -6,19 +6,61 @@
 # Your branch is up to date with 'origin/main'.
 #
 # Changes to be committed:
-#	deleted:    README.md
-#
-# Untracked files:
-#	README.org
+#	modified:   refactor.py
+#	new file:   src/images/UI-mockup.xcf
 #
 # ------------------------ >8 ------------------------
 # Do not modify or remove the line above.
 # Everything below it will be ignored.
-diff --git a/README.md b/README.md
-deleted file mode 100644
-index eab7ced..0000000
---- a/README.md
-+++ /dev/null
-@@ -1,2 +0,0 @@
--# pymodoro
--A simple no-nonsense pomodoro timer made in Python.
+diff --git a/refactor.py b/refactor.py
+index 4a7171d..eb91437 100644
+--- a/refactor.py
++++ b/refactor.py
+@@ -1,10 +1,12 @@
+ # Rewritten to have a cleaner switch case prompt
+ # Needs to use venv python file to execute the playsound3 module
+-# Command: .venv/bin/python3.12 refactor.py
++# .venv/bin/python3.12 refactor.py 
+ 
+ import sys
+ import time
+-from playsound3 import playsound
++from tkinter import *
++from tkinter import ttk
++# from playsound3 import playsound
+ 
+ class Program():
+     counter = 0
+@@ -77,8 +79,25 @@ class Program():
+             self.prompt_timer()
+                 
+     def notification_sound(self) -> None:
+-        sound = playsound("/home/mint/Projects/Python-Pomodoro/src/sounds/notification-sound.mp3")
+-        sound.stop()
+-        time.sleep(1)
++        # sound = playsound("/home/mint/Projects/Python-Pomodoro/src/sounds/notification-sound.mp3")
++        # sound.stop()
++        # time.sleep(1)
++        print("\nSound")
++
++
++# --- GUI ---
++"""
++root  = Tk()
++root.title("Pymodoro")
++
++mainframe = ttk.Frame(root, padding=(3, 3, 12, 12))
++mainframe.grid(column=0, row=0, sticky=(N, W, E, S))
++
++ttk.Button(mainframe, text="|>")
++ttk.Button.pack()
++
++
++root.mainloop()
++"""
+ 
+ Program()
+diff --git a/src/images/UI-mockup.xcf b/src/images/UI-mockup.xcf
+new file mode 100644
+index 0000000..7e197d3
+Binary files /dev/null and b/src/images/UI-mockup.xcf differ

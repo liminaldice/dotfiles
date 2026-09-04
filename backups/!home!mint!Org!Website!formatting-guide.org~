@@ -1,0 +1,73 @@
+#+TITLE: Formatting Guide
+#+AUTHOR: liminaldice
+#+OPTIONS: html5-fancy:t
+#+SUBTITLE: A quick reference guide of everything I learned about Org Mode.
+#+DESCRIPTION: Emacs Org-mode formatting guide.
+#+HTML_HEAD_EXTRA: <link to stylesheet>
+
+* Org file options
+#+begin_src
+#+TITLE: 
+#+AUTHOR:
+#+OPTIONS:
+#+SUBTITLE:
+#+DESCRIPTION:
+#+HTML_HEAD_EXTRA: <link to stylesheet>
+#+end_src
+
+* Basic formatting
+- /emphasis/
+- *embolden*
+- _underline_
+
+** Structured blocks
+
+#+begin_src elisp
+(+ 2 2)
+#+end_src
+
+** Quotes
+Some filler text for reference, and finally:
+#+begin_quote
+Blockquote.
+#+end_quote
+Some more reference text.
+
+** HTML5 Aside
+
+#+begin_aside
+Content, aside.
+#+end_aside
+
+** Verse
+
+#+begin_verse
+Some poetry, goes on a line
+The line breaks
+And it goes down
+#+end_verse
+
+
+** Attributes
+#+ATTR_HTML: :controls controls :width 350
+#+BEGIN_video
+#+HTML: <source src ="movie.mp4" type="video/mp4">
+#+HTML: <source src ="movie.ogg" type="video/ogg">
+Your browser does not support the video tag.
+#+END_video
+
+
+*** org-html-convert-region-to-html
+
+<div class="video" id="org8b66865">
+<source src ="movie.mp4" type="video/mp4">
+<source src ="movie.ogg" type="video/ogg">
+<p>
+Your browser does not support the video tag.
+</p>
+
+</div>
+
+** 
+
+
